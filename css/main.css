@@ -10,7 +10,8 @@ body {
 
 .img_link {
     width: 30px;
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .container {
