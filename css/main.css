@@ -3,10 +3,12 @@ body {
     width: 70%;
 }
 
-
+.my_pic {
+    width: 100px;
+    border-radius: 50px;
+}
 .img_link {
     width: 30px;
-    height: 22.5px;
 }
 
 nav ul, footer ul {
