@@ -8,6 +8,17 @@ body {
     border-radius: 100px;
 }
 
+@media screen and (max-width: 1400px) {
+
+    .my_info {
+        clear: right;
+    }
+
+    .container {
+        clear: left;
+    } 
+}
+
 .img_link {
     width: 30px;
     padding: 2px;
