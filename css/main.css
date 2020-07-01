@@ -5,13 +5,12 @@ body {
 
 .my_pic {
     width: 200px;
-    border-radius:100px;
+    border-radius: 100px;
 }
 
 .img_link {
     width: 30px;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 2px;
 }
 
 .container {
@@ -22,6 +21,8 @@ body {
 .my_info {
     width: 20%;
     float: left;
+    text-align: center;
+    display: block;
 }
 
 nav ul, footer ul {
