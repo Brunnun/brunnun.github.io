@@ -13,10 +13,12 @@ body {
 }
 
 .container {
+    width: 80%;
     float: right;
 }
 
 .my_info {
+    width: 20%;
     float: left;
 }
 
