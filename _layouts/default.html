@@ -4,6 +4,7 @@
 		<title>{{ page.title}} </title>
        	<link rel="stylesheet" type="text/css" href="/css/main.css">
         <link rel="icon" type="image/png" href="/img/HC.png" sizes="16x16">
+        <link href="{{ "/css/main.css" | prepend: site.baseurl }}?{{ site.time | date: '%s%N' }}" rel="stylesheet">
 	</head>
 	<body>
 		<nav>
