@@ -8,6 +8,7 @@ I can finally say the website is ready! Pretty empty still, but things are worki
 
 I'll add here the list of things I still want to do to keep myself accountable!
 
+- Edit overall appearance - font, background, etc. I'm very unskilled with CSS but I have to learn sometime!
 - Edit the way the site behaves with window resizing.
 - Edit how it looks on mobile - probably very related to above.
 - Add a "fun" section, probably to talk about Magic, Game of Thrones and other geeky things I'm interested in. Not sure if I will, but seems interesting.
